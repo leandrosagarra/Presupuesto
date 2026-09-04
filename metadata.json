@@ -1,0 +1,6 @@
+{
+  "name": "Presupuesto - Listado de Créditos 2026",
+  "description": "Herramienta interactiva para explorar archivos Excel presupuestarios y listado de créditos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
